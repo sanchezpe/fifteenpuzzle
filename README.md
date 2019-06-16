@@ -1,6 +1,8 @@
 # Web Programming Step by Step 
 ## Assignment: Fifteen Puzzle
 ### Description
+This assignment is about JavaScript's Document Object Model (DOM) and event handling.
+
 The "Fifteen puzzle" (more generally called the Sliding Puzzle) is a simple classic game consisting of a 4x4 grid of numbered squares with one square missing. The object of the game is to arrange the tiles into numerical order by repeatedly sliding a square that neighbors the missing square into its empty space.
 
 You will write the JavaScript code for a page **fifteen.html** that plays the Fifteen Puzzle. You will also submit a background image of your own choosing, displayed underneath the tiles of the board. Choose any image you like, so long as its tiles can be distinguished on the board. Turn in the following files:
